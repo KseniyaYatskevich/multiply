@@ -13,7 +13,7 @@ it('should multiply 2 numbers and return product 10000000000000000', () => {
   assert.strictEqual(multiply('100000000', '100000000'), '10000000000000000');
 });
 
-it('should multiply 2 numbers and return product 19240045408977038918943543720037256', () => {
+it ('should multiply 2 numbers and return product 19240045408977038918943543720037256', () => {
   assert.strictEqual(multiply('329568934658432659586', '58379426534596'), '19240045408977038918943543720037256');
 });
 
